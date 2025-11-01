@@ -72,7 +72,13 @@ Instagram : @szrkali
 
 > 👾 **Daha fazla bilgi ve güncellemeler için sosyal kanalı takip etmeyi unutma!**
 
-```
-# ASCII ve renkli ikonlar için shields.io kullanıldı.
-# Banner ASCII: https://patorjk.com/software/taag
-```
+NELER OLUYOR HAYATA
+
+• X11 / GUI listeleme ve listeleri: xorg-font-util, xorg-xrdb, xbitmaps, fontconfig-utils, gtk2, gtk3, dbus, startup-notification, masaüstü-dosya-utils, xcompmgr (GTK uygulamaları, X kaynakları, mobil hesaplama ve basit birleştirme için.)
+• Pencere düzeni / bilgisayar bileşenleri / başlatıcılar: openbox, obconf-qt, rofi, polybar, xfce4-settings, xfce4-terminal, Tigervnc, xcompmgr (Hafif masaüstü/pencere yönetimi, VNC sunucusu, başlatıcı ve panel.)
+• Dosya dosyalama / tarayıcılar / düzenleyiciler: thunar, ranger, elinks, netsurf, leafpad, geany (GUI/terminal dosya yönetimi ve hafif web/ metin tarayıcıları için.)
+• Görüntü / Masaüstü görselleştirme: feh, imagemagick, viewnior, ristretto, xarchiver, xbitmaps (Duvar kağıdı, resim görüntüleme, resim işleme, arşiv yönetimi.)
+• Multimedya / medya oynatıcılar: mpv, vlc, audacious, mpd, mpc, ncmpcpp, cmus (Video/müzik oynatma ve arka plan müzik sunucusu gösterileri.)
+• E-posta / iletişim: mutt (Terminal tabanlı e-posta ile taşınır.)
+• Diğer yardımcılar: fsmon, Tigervnc (VNC), startup-notification, termux-api (Dosya sistemi izleme, VNC, Termux özel API komutları.)
+
