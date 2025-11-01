@@ -32,7 +32,7 @@
 1. Termux’ta gerekli paketleri kur:
     ```bash
     git clone https://github.com/szrkalitr/godgui
-    pkg install x-11
+    pkg install x11-repo
     ```
 
 2. Scripti çalıştır:
