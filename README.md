@@ -37,6 +37,7 @@
 
 2. Scripti çalıştır:
     ```bash
+    cd godgui
     mv gui.sh ~/
     chmod +x szrgui.sh
     ./szrgui.sh
