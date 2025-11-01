@@ -31,19 +31,20 @@
 
 1. Termux’ta gerekli paketleri kur:
     ```bash
-    
+    git clone https://github.com/szrkalitr/godgui
+    pkg install x-11
     ```
 
 2. Scripti çalıştır:
     ```bash
+    mv gui.sh ~/
+    chmod +x szrgui.sh
+    ./szrgui.sh
+    cd ~/
+    chmod +x gui.sh
     ./gui.sh
     ```
 
-3. Masaüstünü seç:
-    ```
-    1) XFCE4
-    2) Openbox
-    ```
 
 ---
 
