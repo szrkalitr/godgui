@@ -22,7 +22,7 @@
 
 - XFCE4 ve Openbox masaüstü başlatma  
 - Basit ve hızlı  
-- Paket kontrolü yapılmaz, paketleri kullanıcı kurar  
+  
 - Banner desteği
 
 ---
